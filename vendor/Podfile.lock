@@ -1,0 +1,14 @@
+
+PODS:
+- CocoaLumberjack (1.6)
+- NanoStore (2.1.5)
+
+DEPENDENCIES:
+- CocoaLumberjack
+- NanoStore
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 0f2fa7090a23f13261072d882e017c688300efbe
+  NanoStore: 440272829dfe13db7f1c68de74fc3562475463fe
+
+COCOAPODS: 0.15.1
